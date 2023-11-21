@@ -1,0 +1,11 @@
+pistas 1
+insere_aviao(f1, 41, A220, SP, 409, 50)
+insere_aviao(f1, 19, A310, RJ, 676, 130)
+insere_aviao(f1, 32, A320, MADRI, 8754, 660)
+decolar 1
+decolar 1
+tempestade 3
+neblina 4
+turbulencia 6
+iniciasimulacao 5
+fim
